@@ -1,0 +1,1 @@
+# CTrader-OpenApi-2.0-Manager
